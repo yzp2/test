@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\Stone\Desktop\PX4Flow\PX4Flow MDKÒÆÖ²¹¤³Ì\Flow-master.uvproj
+Project File Date:  07/16/2015
+
+<h2>Output:</h2>
+Build target 'Flow-master'
+linking...
+.\CompiledOutput\MasterProcessor.axf: Warning: L6320W: Ignoring --keep command. Cannot find argument '__fsym_*'.
+.\CompiledOutput\MasterProcessor.axf: Warning: L6320W: Ignoring --keep command. Cannot find argument '__vsym_*'.
+Program Size: Code=48270 RO-data=974 RW-data=8884 ZI-data=114620  
+".\CompiledOutput\MasterProcessor.axf" - 0 Errors, 2 Warning(s).
